@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">ex3</string>
+    <string name="FACEBOOK_APP_ID">2485921191473105</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">7704022c18e513deddf1717d4c7ac74b</string>
+
+    // if your Facebook App ID is 1234567, you should use ak1234567
+    <string name="ak_login_protocol_scheme">ak7704022c18e513deddf1717d4c7ac74b</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
